@@ -1,0 +1,3565 @@
+{
+  "curriculum": {
+    "degreeName": "Bachelor of Science in Computer Science",
+    "degreeCode": "BSCS",
+    "totalSemesters": 8,
+    "totalCreditHours": 136,
+    "semesters": {
+      "1": [
+        {
+          "code": "CS101",
+          "title": "Programming Fundamentals",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        },
+        {
+          "code": "CS102",
+          "title": "Introduction to Computing",
+          "credits": 3,
+          "theoryCredits": 2,
+          "labCredits": 1
+        },
+        {
+          "code": "MT101",
+          "title": "Calculus & Analytical Geometry",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "EN101",
+          "title": "Functional English",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "PK101",
+          "title": "Pakistan Studies & History",
+          "credits": 2,
+          "theoryCredits": 2,
+          "labCredits": 0
+        },
+        {
+          "code": "PH101",
+          "title": "Applied Physics",
+          "credits": 3,
+          "theoryCredits": 2,
+          "labCredits": 1
+        }
+      ],
+      "2": [
+        {
+          "code": "CS201",
+          "title": "Object Oriented Programming",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        },
+        {
+          "code": "CS202",
+          "title": "Discrete Structures",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "CS203",
+          "title": "Digital Logic Design",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        },
+        {
+          "code": "MT201",
+          "title": "Differential Equations & Multi. Calc",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "EN102",
+          "title": "Communication & Presentation Skills",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        }
+      ],
+      "3": [
+        {
+          "code": "CS301",
+          "title": "Data Structures & Algorithms",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        },
+        {
+          "code": "CS302",
+          "title": "Computer Org. & Assembly Language",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        },
+        {
+          "code": "MT301",
+          "title": "Linear Algebra",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "CS303",
+          "title": "Design & Analysis of Algorithms",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "SS201",
+          "title": "Professional Ethics in Computing",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        }
+      ],
+      "4": [
+        {
+          "code": "CS401",
+          "title": "Database Systems",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        },
+        {
+          "code": "CS402",
+          "title": "Operating Systems",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        },
+        {
+          "code": "MT401",
+          "title": "Probability & Statistics",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "CS403",
+          "title": "Theory of Automata",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "EN201",
+          "title": "Technical & Report Writing",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        }
+      ],
+      "5": [
+        {
+          "code": "CS501",
+          "title": "Software Engineering",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "CS502",
+          "title": "Computer Networks",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        },
+        {
+          "code": "CS503",
+          "title": "Artificial Intelligence",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        },
+        {
+          "code": "CS504",
+          "title": "Full-Stack Web Technologies",
+          "credits": 3,
+          "theoryCredits": 2,
+          "labCredits": 1
+        },
+        {
+          "code": "MG301",
+          "title": "Principles of Management",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        }
+      ],
+      "6": [
+        {
+          "code": "CS601",
+          "title": "Compiler Construction",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "CS602",
+          "title": "Information & Cyber Security",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "CS603",
+          "title": "Cloud Computing & DevOps",
+          "credits": 3,
+          "theoryCredits": 2,
+          "labCredits": 1
+        },
+        {
+          "code": "CS604",
+          "title": "Mobile Application Development",
+          "credits": 3,
+          "theoryCredits": 2,
+          "labCredits": 1
+        },
+        {
+          "code": "CS605",
+          "title": "Machine Learning",
+          "credits": 4,
+          "theoryCredits": 3,
+          "labCredits": 1
+        }
+      ],
+      "7": [
+        {
+          "code": "CS701",
+          "title": "Final Year Project - I",
+          "credits": 3,
+          "theoryCredits": 0,
+          "labCredits": 3
+        },
+        {
+          "code": "CS702",
+          "title": "Parallel & Distributed Systems",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "CS703",
+          "title": "Human Computer Interaction",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "CS704",
+          "title": "Deep Learning & Computer Vision",
+          "credits": 3,
+          "theoryCredits": 2,
+          "labCredits": 1
+        },
+        {
+          "code": "MG401",
+          "title": "Technology Entrepreneurship",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        }
+      ],
+      "8": [
+        {
+          "code": "CS801",
+          "title": "Final Year Project - II",
+          "credits": 3,
+          "theoryCredits": 0,
+          "labCredits": 3
+        },
+        {
+          "code": "CS802",
+          "title": "Data Science & Big Data Analytics",
+          "credits": 3,
+          "theoryCredits": 2,
+          "labCredits": 1
+        },
+        {
+          "code": "CS803",
+          "title": "Natural Language Processing",
+          "credits": 3,
+          "theoryCredits": 3,
+          "labCredits": 0
+        },
+        {
+          "code": "SS401",
+          "title": "Islamic Studies / Ethics",
+          "credits": 2,
+          "theoryCredits": 2,
+          "labCredits": 0
+        },
+        {
+          "code": "CS804",
+          "title": "Blockchain Technologies & Web3",
+          "credits": 3,
+          "theoryCredits": 2,
+          "labCredits": 1
+        }
+      ]
+    }
+  },
+  "batches": [
+    {
+      "id": "batch-2021",
+      "code": "2021-2025",
+      "title": "BSCS Batch 2021-2025",
+      "enrollmentYear": 2021,
+      "currentSemestersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "batch-2022",
+      "code": "2022-2026",
+      "title": "BSCS Batch 2022-2026",
+      "enrollmentYear": 2022,
+      "currentSemestersAvailable": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "batch-2023",
+      "code": "2023-2027",
+      "title": "BSCS Batch 2023-2027",
+      "enrollmentYear": 2023,
+      "currentSemestersAvailable": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "batch-2024",
+      "code": "2024-2028",
+      "title": "BSCS Batch 2024-2028",
+      "enrollmentYear": 2024,
+      "currentSemestersAvailable": [
+        1
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "rollNo": "BCS-F21-001",
+      "regNo": "21-CS-001",
+      "name": "Hamza Tariq",
+      "fatherName": "Tariq Mehmood",
+      "batch": "2021-2025",
+      "batchId": "batch-2021",
+      "batchLabel": "BSCS 2021-2025 (Fall 2021)",
+      "section": "A",
+      "shift": "Morning",
+      "completedSemesters": 7,
+      "currentSemester": 8,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 16,
+            "midterm": 22.1,
+            "final": 39.5
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 11.4,
+            "midterm": 16.3,
+            "final": 30
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 10.3,
+            "midterm": 16.4,
+            "final": 29
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 9.9,
+            "midterm": 16.6,
+            "final": 26.2
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 7.1,
+            "midterm": 11.3,
+            "final": 16.6
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 11.9,
+            "midterm": 17.1,
+            "final": 26.4
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 16,
+            "midterm": 23.9,
+            "final": 37.7
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.8,
+            "final": 29.4
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 15.5,
+            "midterm": 21.7,
+            "final": 40
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 15.8,
+            "final": 28.9
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 17,
+            "final": 27.7
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 15.3,
+            "midterm": 24,
+            "final": 37.8
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 16,
+            "midterm": 24,
+            "final": 37.6
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 17,
+            "final": 28.7
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 11.1,
+            "midterm": 15.1,
+            "final": 28
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 15.4,
+            "final": 28.6
+          }
+        ],
+        "4": [
+          {
+            "code": "CS401",
+            "title": "Database Systems",
+            "credits": 4,
+            "sessional": 14.3,
+            "midterm": 23.5,
+            "final": 39.8
+          },
+          {
+            "code": "CS402",
+            "title": "Operating Systems",
+            "credits": 4,
+            "sessional": 15,
+            "midterm": 24,
+            "final": 38.6
+          },
+          {
+            "code": "MT401",
+            "title": "Probability & Statistics",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 18,
+            "final": 28.2
+          },
+          {
+            "code": "CS403",
+            "title": "Theory of Automata",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 17,
+            "final": 27.7
+          },
+          {
+            "code": "EN201",
+            "title": "Technical & Report Writing",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.4,
+            "final": 29.8
+          }
+        ],
+        "5": [
+          {
+            "code": "CS501",
+            "title": "Software Engineering",
+            "credits": 3,
+            "sessional": 10.8,
+            "midterm": 15.7,
+            "final": 29.4
+          },
+          {
+            "code": "CS502",
+            "title": "Computer Networks",
+            "credits": 4,
+            "sessional": 14.3,
+            "midterm": 23.1,
+            "final": 40
+          },
+          {
+            "code": "CS503",
+            "title": "Artificial Intelligence",
+            "credits": 4,
+            "sessional": 14.7,
+            "midterm": 24,
+            "final": 38.9
+          },
+          {
+            "code": "CS504",
+            "title": "Full-Stack Web Technologies",
+            "credits": 3,
+            "sessional": 11.5,
+            "midterm": 18,
+            "final": 26.7
+          },
+          {
+            "code": "MG301",
+            "title": "Principles of Management",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 17.8,
+            "final": 28.4
+          }
+        ],
+        "6": [
+          {
+            "code": "CS601",
+            "title": "Compiler Construction",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.1,
+            "final": 28.3
+          },
+          {
+            "code": "CS602",
+            "title": "Information & Cyber Security",
+            "credits": 3,
+            "sessional": 11.5,
+            "midterm": 16.3,
+            "final": 30
+          },
+          {
+            "code": "CS603",
+            "title": "Cloud Computing & DevOps",
+            "credits": 3,
+            "sessional": 10.8,
+            "midterm": 17,
+            "final": 30
+          },
+          {
+            "code": "CS604",
+            "title": "Mobile Application Development",
+            "credits": 3,
+            "sessional": 10.9,
+            "midterm": 18,
+            "final": 29.3
+          },
+          {
+            "code": "CS605",
+            "title": "Machine Learning",
+            "credits": 4,
+            "sessional": 14.7,
+            "midterm": 23.7,
+            "final": 35.2
+          }
+        ],
+        "7": [
+          {
+            "code": "CS701",
+            "title": "Final Year Project - I",
+            "credits": 3,
+            "sessional": 11.6,
+            "midterm": 16.8,
+            "final": 25.6
+          },
+          {
+            "code": "CS702",
+            "title": "Parallel & Distributed Systems",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.7,
+            "final": 28.7
+          },
+          {
+            "code": "CS703",
+            "title": "Human Computer Interaction",
+            "credits": 3,
+            "sessional": 11.8,
+            "midterm": 16.3,
+            "final": 30
+          },
+          {
+            "code": "CS704",
+            "title": "Deep Learning & Computer Vision",
+            "credits": 3,
+            "sessional": 10.9,
+            "midterm": 16.6,
+            "final": 30
+          },
+          {
+            "code": "MG401",
+            "title": "Technology Entrepreneurship",
+            "credits": 3,
+            "sessional": 10.6,
+            "midterm": 17.6,
+            "final": 29.2
+          }
+        ]
+      },
+      "cgpa": 4,
+      "overallPercentage": 94.9,
+      "totalCreditsAttempted": 117,
+      "totalCreditsEarned": 117,
+      "totalObtainedMarks": 2219.5,
+      "totalMaxMarks": 2340,
+      "standing": "HoD's Honor List",
+      "standingClass": "badge-gold"
+    },
+    {
+      "id": 2,
+      "rollNo": "BCS-F21-015",
+      "regNo": "21-CS-015",
+      "name": "Ayesha Malik",
+      "fatherName": "Abdul Malik",
+      "batch": "2021-2025",
+      "batchId": "batch-2021",
+      "batchLabel": "BSCS 2021-2025 (Fall 2021)",
+      "section": "A",
+      "shift": "Morning",
+      "completedSemesters": 7,
+      "currentSemester": 8,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 13.3,
+            "midterm": 21.8,
+            "final": 32.2
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 11.2,
+            "midterm": 16.6,
+            "final": 24.8
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.4,
+            "final": 27.6
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 11.8,
+            "midterm": 16.1,
+            "final": 29.7
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 7,
+            "midterm": 10.6,
+            "final": 19.6
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 9.6,
+            "midterm": 15.9,
+            "final": 26.9
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 12.7,
+            "midterm": 21,
+            "final": 35.5
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 10.3,
+            "midterm": 17.1,
+            "final": 25.8
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 15.8,
+            "midterm": 24,
+            "final": 35.7
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 17.4,
+            "final": 28.8
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.4,
+            "final": 29.8
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 13,
+            "midterm": 18.8,
+            "final": 35.8
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 12.4,
+            "midterm": 20.2,
+            "final": 35.5
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 17.1,
+            "final": 26.8
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 11.7,
+            "midterm": 18,
+            "final": 27.4
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 17.4,
+            "final": 27.7
+          }
+        ],
+        "4": [
+          {
+            "code": "CS401",
+            "title": "Database Systems",
+            "credits": 4,
+            "sessional": 15,
+            "midterm": 20,
+            "final": 35.3
+          },
+          {
+            "code": "CS402",
+            "title": "Operating Systems",
+            "credits": 4,
+            "sessional": 13.7,
+            "midterm": 19.2,
+            "final": 36.5
+          },
+          {
+            "code": "MT401",
+            "title": "Probability & Statistics",
+            "credits": 3,
+            "sessional": 10.1,
+            "midterm": 15.9,
+            "final": 28.6
+          },
+          {
+            "code": "CS403",
+            "title": "Theory of Automata",
+            "credits": 3,
+            "sessional": 10.9,
+            "midterm": 18,
+            "final": 29.1
+          },
+          {
+            "code": "EN201",
+            "title": "Technical & Report Writing",
+            "credits": 3,
+            "sessional": 10.9,
+            "midterm": 17.6,
+            "final": 26.1
+          }
+        ],
+        "5": [
+          {
+            "code": "CS501",
+            "title": "Software Engineering",
+            "credits": 3,
+            "sessional": 11.1,
+            "midterm": 16.2,
+            "final": 24.6
+          },
+          {
+            "code": "CS502",
+            "title": "Computer Networks",
+            "credits": 4,
+            "sessional": 14.5,
+            "midterm": 19.5,
+            "final": 33.2
+          },
+          {
+            "code": "CS503",
+            "title": "Artificial Intelligence",
+            "credits": 4,
+            "sessional": 14.1,
+            "midterm": 19.3,
+            "final": 36.2
+          },
+          {
+            "code": "CS504",
+            "title": "Full-Stack Web Technologies",
+            "credits": 3,
+            "sessional": 10.4,
+            "midterm": 15.9,
+            "final": 29.3
+          },
+          {
+            "code": "MG301",
+            "title": "Principles of Management",
+            "credits": 3,
+            "sessional": 9.6,
+            "midterm": 16,
+            "final": 26.6
+          }
+        ],
+        "6": [
+          {
+            "code": "CS601",
+            "title": "Compiler Construction",
+            "credits": 3,
+            "sessional": 10.6,
+            "midterm": 17.4,
+            "final": 26.3
+          },
+          {
+            "code": "CS602",
+            "title": "Information & Cyber Security",
+            "credits": 3,
+            "sessional": 11,
+            "midterm": 16.5,
+            "final": 24.5
+          },
+          {
+            "code": "CS603",
+            "title": "Cloud Computing & DevOps",
+            "credits": 3,
+            "sessional": 11.5,
+            "midterm": 15.7,
+            "final": 25.7
+          },
+          {
+            "code": "CS604",
+            "title": "Mobile Application Development",
+            "credits": 3,
+            "sessional": 11.6,
+            "midterm": 15.8,
+            "final": 28.8
+          },
+          {
+            "code": "CS605",
+            "title": "Machine Learning",
+            "credits": 4,
+            "sessional": 14.8,
+            "midterm": 22,
+            "final": 40
+          }
+        ],
+        "7": [
+          {
+            "code": "CS701",
+            "title": "Final Year Project - I",
+            "credits": 3,
+            "sessional": 9.9,
+            "midterm": 16.2,
+            "final": 27.7
+          },
+          {
+            "code": "CS702",
+            "title": "Parallel & Distributed Systems",
+            "credits": 3,
+            "sessional": 9.7,
+            "midterm": 16.3,
+            "final": 24.9
+          },
+          {
+            "code": "CS703",
+            "title": "Human Computer Interaction",
+            "credits": 3,
+            "sessional": 10.6,
+            "midterm": 16.3,
+            "final": 23.9
+          },
+          {
+            "code": "CS704",
+            "title": "Deep Learning & Computer Vision",
+            "credits": 3,
+            "sessional": 11.6,
+            "midterm": 16.3,
+            "final": 25.8
+          },
+          {
+            "code": "MG401",
+            "title": "Technology Entrepreneurship",
+            "credits": 3,
+            "sessional": 10.8,
+            "midterm": 14.3,
+            "final": 25.8
+          }
+        ]
+      },
+      "cgpa": 3.94,
+      "overallPercentage": 89.6,
+      "totalCreditsAttempted": 117,
+      "totalCreditsEarned": 117,
+      "totalObtainedMarks": 2097.1,
+      "totalMaxMarks": 2340,
+      "standing": "HoD's Honor List",
+      "standingClass": "badge-gold"
+    },
+    {
+      "id": 3,
+      "rollNo": "BCS-F21-042",
+      "regNo": "21-CS-042",
+      "name": "Bilal Ahmed Khan",
+      "fatherName": "Sohail Khan",
+      "batch": "2021-2025",
+      "batchId": "batch-2021",
+      "batchLabel": "BSCS 2021-2025 (Fall 2021)",
+      "section": "B",
+      "shift": "Morning",
+      "completedSemesters": 7,
+      "currentSemester": 8,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 13.1,
+            "midterm": 19,
+            "final": 36.2
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 8.7,
+            "midterm": 14.2,
+            "final": 25.1
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 8.5,
+            "midterm": 14.5,
+            "final": 22.3
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 9.4,
+            "midterm": 14.8,
+            "final": 21.4
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 7.1,
+            "midterm": 10,
+            "final": 15.4
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 11,
+            "midterm": 14.7,
+            "final": 26
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 15.1,
+            "midterm": 20.3,
+            "final": 35.7
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 10,
+            "midterm": 14,
+            "final": 26.5
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 11.5,
+            "midterm": 18.3,
+            "final": 33.3
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 8.6,
+            "midterm": 14.7,
+            "final": 23.4
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 9.4,
+            "midterm": 15.2,
+            "final": 22.1
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 14.9,
+            "midterm": 21.7,
+            "final": 32.9
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 14.4,
+            "midterm": 19.3,
+            "final": 32.9
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 9.4,
+            "midterm": 12.8,
+            "final": 24.3
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 8.3,
+            "midterm": 12.7,
+            "final": 24
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 8.1,
+            "midterm": 13.9,
+            "final": 23
+          }
+        ],
+        "4": [
+          {
+            "code": "CS401",
+            "title": "Database Systems",
+            "credits": 4,
+            "sessional": 14,
+            "midterm": 23,
+            "final": 34.6
+          },
+          {
+            "code": "CS402",
+            "title": "Operating Systems",
+            "credits": 4,
+            "sessional": 14.8,
+            "midterm": 22.1,
+            "final": 32.9
+          },
+          {
+            "code": "MT401",
+            "title": "Probability & Statistics",
+            "credits": 3,
+            "sessional": 10.7,
+            "midterm": 14.5,
+            "final": 23.7
+          },
+          {
+            "code": "CS403",
+            "title": "Theory of Automata",
+            "credits": 3,
+            "sessional": 9.7,
+            "midterm": 12.9,
+            "final": 24
+          },
+          {
+            "code": "EN201",
+            "title": "Technical & Report Writing",
+            "credits": 3,
+            "sessional": 9.3,
+            "midterm": 13.7,
+            "final": 25.9
+          }
+        ],
+        "5": [
+          {
+            "code": "CS501",
+            "title": "Software Engineering",
+            "credits": 3,
+            "sessional": 9.5,
+            "midterm": 15.6,
+            "final": 26.8
+          },
+          {
+            "code": "CS502",
+            "title": "Computer Networks",
+            "credits": 4,
+            "sessional": 13.1,
+            "midterm": 22,
+            "final": 33.6
+          },
+          {
+            "code": "CS503",
+            "title": "Artificial Intelligence",
+            "credits": 4,
+            "sessional": 13.4,
+            "midterm": 20.8,
+            "final": 30.4
+          },
+          {
+            "code": "CS504",
+            "title": "Full-Stack Web Technologies",
+            "credits": 3,
+            "sessional": 10,
+            "midterm": 13.8,
+            "final": 21.7
+          },
+          {
+            "code": "MG301",
+            "title": "Principles of Management",
+            "credits": 3,
+            "sessional": 10.3,
+            "midterm": 13.6,
+            "final": 24.5
+          }
+        ],
+        "6": [
+          {
+            "code": "CS601",
+            "title": "Compiler Construction",
+            "credits": 3,
+            "sessional": 10.3,
+            "midterm": 14.7,
+            "final": 27.9
+          },
+          {
+            "code": "CS602",
+            "title": "Information & Cyber Security",
+            "credits": 3,
+            "sessional": 9.8,
+            "midterm": 15.7,
+            "final": 28
+          },
+          {
+            "code": "CS603",
+            "title": "Cloud Computing & DevOps",
+            "credits": 3,
+            "sessional": 9.5,
+            "midterm": 16.1,
+            "final": 25.4
+          },
+          {
+            "code": "CS604",
+            "title": "Mobile Application Development",
+            "credits": 3,
+            "sessional": 9.7,
+            "midterm": 15.5,
+            "final": 22.4
+          },
+          {
+            "code": "CS605",
+            "title": "Machine Learning",
+            "credits": 4,
+            "sessional": 13.5,
+            "midterm": 19.3,
+            "final": 29.3
+          }
+        ],
+        "7": [
+          {
+            "code": "CS701",
+            "title": "Final Year Project - I",
+            "credits": 3,
+            "sessional": 10.9,
+            "midterm": 14.5,
+            "final": 25.3
+          },
+          {
+            "code": "CS702",
+            "title": "Parallel & Distributed Systems",
+            "credits": 3,
+            "sessional": 10.4,
+            "midterm": 14.5,
+            "final": 27.3
+          },
+          {
+            "code": "CS703",
+            "title": "Human Computer Interaction",
+            "credits": 3,
+            "sessional": 9.3,
+            "midterm": 14.5,
+            "final": 26.6
+          },
+          {
+            "code": "CS704",
+            "title": "Deep Learning & Computer Vision",
+            "credits": 3,
+            "sessional": 8.6,
+            "midterm": 14.6,
+            "final": 23.7
+          },
+          {
+            "code": "MG401",
+            "title": "Technology Entrepreneurship",
+            "credits": 3,
+            "sessional": 10.3,
+            "midterm": 16.9,
+            "final": 25
+          }
+        ]
+      },
+      "cgpa": 3.68,
+      "overallPercentage": 82.3,
+      "totalCreditsAttempted": 117,
+      "totalCreditsEarned": 117,
+      "totalObtainedMarks": 1926.5,
+      "totalMaxMarks": 2340,
+      "standing": "High Distinction",
+      "standingClass": "badge-purple"
+    },
+    {
+      "id": 4,
+      "rollNo": "BCS-F21-089",
+      "regNo": "21-CS-089",
+      "name": "Zainab Fatima",
+      "fatherName": "Muhammad Farooq",
+      "batch": "2021-2025",
+      "batchId": "batch-2021",
+      "batchLabel": "BSCS 2021-2025 (Fall 2021)",
+      "section": "B",
+      "shift": "Evening",
+      "completedSemesters": 7,
+      "currentSemester": 8,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 12.5,
+            "midterm": 18,
+            "final": 26.7
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 10.1,
+            "midterm": 13.4,
+            "final": 22.8
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 9.6,
+            "midterm": 13,
+            "final": 24.7
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 8.3,
+            "midterm": 12.8,
+            "final": 24.1
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 5,
+            "midterm": 8.6,
+            "final": 14.2
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 7.8,
+            "midterm": 13.2,
+            "final": 19.2
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 11.3,
+            "midterm": 18.9,
+            "final": 27.8
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 10,
+            "midterm": 15,
+            "final": 21.9
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 14.2,
+            "midterm": 19.3,
+            "final": 31.7
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 9.9,
+            "midterm": 13.1,
+            "final": 24.5
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 9,
+            "midterm": 13.3,
+            "final": 25.2
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 9.8,
+            "midterm": 16.5,
+            "final": 28.6
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 11.2,
+            "midterm": 19.2,
+            "final": 28.9
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 9.8,
+            "midterm": 15.2,
+            "final": 22.1
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 14.2,
+            "final": 22.3
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 9.9,
+            "midterm": 13.1,
+            "final": 23.7
+          }
+        ],
+        "4": [
+          {
+            "code": "CS401",
+            "title": "Database Systems",
+            "credits": 4,
+            "sessional": 10.9,
+            "midterm": 15.3,
+            "final": 29.9
+          },
+          {
+            "code": "CS402",
+            "title": "Operating Systems",
+            "credits": 4,
+            "sessional": 10.8,
+            "midterm": 17.6,
+            "final": 31.5
+          },
+          {
+            "code": "MT401",
+            "title": "Probability & Statistics",
+            "credits": 3,
+            "sessional": 9,
+            "midterm": 15.2,
+            "final": 23.9
+          },
+          {
+            "code": "CS403",
+            "title": "Theory of Automata",
+            "credits": 3,
+            "sessional": 9.9,
+            "midterm": 15.8,
+            "final": 23
+          },
+          {
+            "code": "EN201",
+            "title": "Technical & Report Writing",
+            "credits": 3,
+            "sessional": 10.4,
+            "midterm": 14.9,
+            "final": 22.8
+          }
+        ],
+        "5": [
+          {
+            "code": "CS501",
+            "title": "Software Engineering",
+            "credits": 3,
+            "sessional": 8.8,
+            "midterm": 11.4,
+            "final": 20.1
+          },
+          {
+            "code": "CS502",
+            "title": "Computer Networks",
+            "credits": 4,
+            "sessional": 11.3,
+            "midterm": 15.4,
+            "final": 29.9
+          },
+          {
+            "code": "CS503",
+            "title": "Artificial Intelligence",
+            "credits": 4,
+            "sessional": 11.2,
+            "midterm": 17.5,
+            "final": 32.5
+          },
+          {
+            "code": "CS504",
+            "title": "Full-Stack Web Technologies",
+            "credits": 3,
+            "sessional": 8.7,
+            "midterm": 14.7,
+            "final": 24
+          },
+          {
+            "code": "MG301",
+            "title": "Principles of Management",
+            "credits": 3,
+            "sessional": 9.1,
+            "midterm": 15,
+            "final": 21.8
+          }
+        ],
+        "6": [
+          {
+            "code": "CS601",
+            "title": "Compiler Construction",
+            "credits": 3,
+            "sessional": 9,
+            "midterm": 13.3,
+            "final": 19.4
+          },
+          {
+            "code": "CS602",
+            "title": "Information & Cyber Security",
+            "credits": 3,
+            "sessional": 9.5,
+            "midterm": 12.6,
+            "final": 21
+          },
+          {
+            "code": "CS603",
+            "title": "Cloud Computing & DevOps",
+            "credits": 3,
+            "sessional": 9.5,
+            "midterm": 12.8,
+            "final": 24.2
+          },
+          {
+            "code": "CS604",
+            "title": "Mobile Application Development",
+            "credits": 3,
+            "sessional": 9.2,
+            "midterm": 13.8,
+            "final": 25.8
+          },
+          {
+            "code": "CS605",
+            "title": "Machine Learning",
+            "credits": 4,
+            "sessional": 11.6,
+            "midterm": 19.4,
+            "final": 32.9
+          }
+        ],
+        "7": [
+          {
+            "code": "CS701",
+            "title": "Final Year Project - I",
+            "credits": 3,
+            "sessional": 7.8,
+            "midterm": 13.3,
+            "final": 19.4
+          },
+          {
+            "code": "CS702",
+            "title": "Parallel & Distributed Systems",
+            "credits": 3,
+            "sessional": 8.7,
+            "midterm": 13.3,
+            "final": 18.9
+          },
+          {
+            "code": "CS703",
+            "title": "Human Computer Interaction",
+            "credits": 3,
+            "sessional": 9.7,
+            "midterm": 13.2,
+            "final": 21.1
+          },
+          {
+            "code": "CS704",
+            "title": "Deep Learning & Computer Vision",
+            "credits": 3,
+            "sessional": 9.8,
+            "midterm": 13,
+            "final": 24.1
+          },
+          {
+            "code": "MG401",
+            "title": "Technology Entrepreneurship",
+            "credits": 3,
+            "sessional": 7.8,
+            "midterm": 11.2,
+            "final": 21.9
+          }
+        ]
+      },
+      "cgpa": 3.16,
+      "overallPercentage": 74.9,
+      "totalCreditsAttempted": 117,
+      "totalCreditsEarned": 117,
+      "totalObtainedMarks": 1753.3,
+      "totalMaxMarks": 2340,
+      "standing": "Merit Standing",
+      "standingClass": "badge-blue"
+    },
+    {
+      "id": 5,
+      "rollNo": "BCS-F22-005",
+      "regNo": "22-CS-005",
+      "name": "Muhammad Usman",
+      "fatherName": "Rashid Ali",
+      "batch": "2022-2026",
+      "batchId": "batch-2022",
+      "batchLabel": "BSCS 2022-2026 (Fall 2022)",
+      "section": "A",
+      "shift": "Morning",
+      "completedSemesters": 5,
+      "currentSemester": 6,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 13.5,
+            "midterm": 22.1,
+            "final": 38.1
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 10.1,
+            "midterm": 16.9,
+            "final": 25.9
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 11.2,
+            "midterm": 17.2,
+            "final": 25.4
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 17.3,
+            "final": 27.8
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 8,
+            "midterm": 11,
+            "final": 19.8
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 11.4,
+            "midterm": 16.3,
+            "final": 30
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 15,
+            "midterm": 21.6,
+            "final": 40
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 10.1,
+            "midterm": 16.1,
+            "final": 28.6
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 13.7,
+            "midterm": 22.9,
+            "final": 36.3
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 11.7,
+            "midterm": 18,
+            "final": 27.9
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 17.8,
+            "final": 27.8
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 16,
+            "midterm": 22,
+            "final": 38.3
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 14.3,
+            "midterm": 20,
+            "final": 37.6
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 9.8,
+            "midterm": 15.2,
+            "final": 27.9
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 17.1,
+            "final": 27.8
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 10.9,
+            "midterm": 17.7,
+            "final": 26.5
+          }
+        ],
+        "4": [
+          {
+            "code": "CS401",
+            "title": "Database Systems",
+            "credits": 4,
+            "sessional": 16,
+            "midterm": 24,
+            "final": 37.6
+          },
+          {
+            "code": "CS402",
+            "title": "Operating Systems",
+            "credits": 4,
+            "sessional": 16,
+            "midterm": 22,
+            "final": 37
+          },
+          {
+            "code": "MT401",
+            "title": "Probability & Statistics",
+            "credits": 3,
+            "sessional": 11.1,
+            "midterm": 15.1,
+            "final": 28.1
+          },
+          {
+            "code": "CS403",
+            "title": "Theory of Automata",
+            "credits": 3,
+            "sessional": 10.5,
+            "midterm": 15.8,
+            "final": 29.4
+          },
+          {
+            "code": "EN201",
+            "title": "Technical & Report Writing",
+            "credits": 3,
+            "sessional": 10,
+            "midterm": 16.5,
+            "final": 27.8
+          }
+        ],
+        "5": [
+          {
+            "code": "CS501",
+            "title": "Software Engineering",
+            "credits": 3,
+            "sessional": 11.3,
+            "midterm": 18,
+            "final": 28.9
+          },
+          {
+            "code": "CS502",
+            "title": "Computer Networks",
+            "credits": 4,
+            "sessional": 15.5,
+            "midterm": 23.6,
+            "final": 35.2
+          },
+          {
+            "code": "CS503",
+            "title": "Artificial Intelligence",
+            "credits": 4,
+            "sessional": 15.3,
+            "midterm": 21.2,
+            "final": 34.2
+          },
+          {
+            "code": "CS504",
+            "title": "Full-Stack Web Technologies",
+            "credits": 3,
+            "sessional": 11.2,
+            "midterm": 15,
+            "final": 27.3
+          },
+          {
+            "code": "MG301",
+            "title": "Principles of Management",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 14.9,
+            "final": 28
+          }
+        ]
+      },
+      "cgpa": 4,
+      "overallPercentage": 92.5,
+      "totalCreditsAttempted": 86,
+      "totalCreditsEarned": 86,
+      "totalObtainedMarks": 1591.5,
+      "totalMaxMarks": 1720,
+      "standing": "HoD's Honor List",
+      "standingClass": "badge-gold"
+    },
+    {
+      "id": 6,
+      "rollNo": "BCS-F22-024",
+      "regNo": "22-CS-024",
+      "name": "Mahnoor Javaid",
+      "fatherName": "Javaid Iqbal",
+      "batch": "2022-2026",
+      "batchId": "batch-2022",
+      "batchLabel": "BSCS 2022-2026 (Fall 2022)",
+      "section": "A",
+      "shift": "Morning",
+      "completedSemesters": 5,
+      "currentSemester": 6,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 15.7,
+            "midterm": 21.1,
+            "final": 36.6
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 11.1,
+            "midterm": 15.5,
+            "final": 29
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 9.9,
+            "midterm": 15.3,
+            "final": 27.9
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 9.1,
+            "midterm": 15.4,
+            "final": 25.2
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 6.4,
+            "midterm": 10.5,
+            "final": 15.5
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 10.9,
+            "midterm": 16,
+            "final": 24
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 15.8,
+            "midterm": 23.3,
+            "final": 35.3
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.8,
+            "final": 28.5
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 15.1,
+            "midterm": 20.7,
+            "final": 38.2
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 9.8,
+            "midterm": 14.7,
+            "final": 27.5
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 9.5,
+            "midterm": 15.8,
+            "final": 26.7
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 13.8,
+            "midterm": 22.8,
+            "final": 34.6
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 15.5,
+            "midterm": 23.6,
+            "final": 35.2
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 11.9,
+            "midterm": 16.4,
+            "final": 26.5
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 10.8,
+            "midterm": 14.4,
+            "final": 26.3
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 9.9,
+            "midterm": 14.4,
+            "final": 27.2
+          }
+        ],
+        "4": [
+          {
+            "code": "CS401",
+            "title": "Database Systems",
+            "credits": 4,
+            "sessional": 13.2,
+            "midterm": 21.4,
+            "final": 37.3
+          },
+          {
+            "code": "CS402",
+            "title": "Operating Systems",
+            "credits": 4,
+            "sessional": 14.4,
+            "midterm": 24,
+            "final": 37.4
+          },
+          {
+            "code": "MT401",
+            "title": "Probability & Statistics",
+            "credits": 3,
+            "sessional": 11.7,
+            "midterm": 18,
+            "final": 27.2
+          },
+          {
+            "code": "CS403",
+            "title": "Theory of Automata",
+            "credits": 3,
+            "sessional": 11.7,
+            "midterm": 16.5,
+            "final": 25.8
+          },
+          {
+            "code": "EN201",
+            "title": "Technical & Report Writing",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.3,
+            "final": 28.6
+          }
+        ],
+        "5": [
+          {
+            "code": "CS501",
+            "title": "Software Engineering",
+            "credits": 3,
+            "sessional": 10.1,
+            "midterm": 14.2,
+            "final": 27.1
+          },
+          {
+            "code": "CS502",
+            "title": "Computer Networks",
+            "credits": 4,
+            "sessional": 13.5,
+            "midterm": 21.3,
+            "final": 38.1
+          },
+          {
+            "code": "CS503",
+            "title": "Artificial Intelligence",
+            "credits": 4,
+            "sessional": 13.9,
+            "midterm": 23.2,
+            "final": 37.2
+          },
+          {
+            "code": "CS504",
+            "title": "Full-Stack Web Technologies",
+            "credits": 3,
+            "sessional": 10.7,
+            "midterm": 17.2,
+            "final": 25.6
+          },
+          {
+            "code": "MG301",
+            "title": "Principles of Management",
+            "credits": 3,
+            "sessional": 11.9,
+            "midterm": 17.3,
+            "final": 26.5
+          }
+        ]
+      },
+      "cgpa": 3.97,
+      "overallPercentage": 90.2,
+      "totalCreditsAttempted": 86,
+      "totalCreditsEarned": 86,
+      "totalObtainedMarks": 1551.4,
+      "totalMaxMarks": 1720,
+      "standing": "HoD's Honor List",
+      "standingClass": "badge-gold"
+    },
+    {
+      "id": 7,
+      "rollNo": "BCS-F22-045",
+      "regNo": "22-CS-045",
+      "name": "Shahzaib Hassan",
+      "fatherName": "Hassan Raza",
+      "batch": "2022-2026",
+      "batchId": "batch-2022",
+      "batchLabel": "BSCS 2022-2026 (Fall 2022)",
+      "section": "B",
+      "shift": "Morning",
+      "completedSemesters": 5,
+      "currentSemester": 6,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 11.7,
+            "midterm": 19.7,
+            "final": 29.4
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 9.9,
+            "midterm": 15.1,
+            "final": 22
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 11,
+            "midterm": 15.1,
+            "final": 24.3
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 11,
+            "midterm": 14.8,
+            "final": 26.9
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 6.6,
+            "midterm": 9.6,
+            "final": 18.3
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 8.8,
+            "midterm": 14.4,
+            "final": 25.3
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 11.4,
+            "midterm": 18.8,
+            "final": 32.9
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 9,
+            "midterm": 15.3,
+            "final": 23.5
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 14,
+            "midterm": 21.9,
+            "final": 32
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 11.6,
+            "midterm": 16.4,
+            "final": 25.8
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 11.4,
+            "midterm": 15.3,
+            "final": 27.1
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 12.1,
+            "midterm": 17,
+            "final": 32.7
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 11.1,
+            "midterm": 17.7,
+            "final": 32.3
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 8.9,
+            "midterm": 15.2,
+            "final": 24.3
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 10.4,
+            "midterm": 16.7,
+            "final": 24.6
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 11.1,
+            "midterm": 16.1,
+            "final": 24.5
+          }
+        ],
+        "4": [
+          {
+            "code": "CS401",
+            "title": "Database Systems",
+            "credits": 4,
+            "sessional": 14,
+            "midterm": 18.7,
+            "final": 32.1
+          },
+          {
+            "code": "CS402",
+            "title": "Operating Systems",
+            "credits": 4,
+            "sessional": 12.7,
+            "midterm": 17.2,
+            "final": 32.9
+          },
+          {
+            "code": "MT401",
+            "title": "Probability & Statistics",
+            "credits": 3,
+            "sessional": 9.1,
+            "midterm": 13.9,
+            "final": 25.9
+          },
+          {
+            "code": "CS403",
+            "title": "Theory of Automata",
+            "credits": 3,
+            "sessional": 9.6,
+            "midterm": 16.1,
+            "final": 26.7
+          },
+          {
+            "code": "EN201",
+            "title": "Technical & Report Writing",
+            "credits": 3,
+            "sessional": 9.6,
+            "midterm": 15.8,
+            "final": 23.5
+          }
+        ],
+        "5": [
+          {
+            "code": "CS501",
+            "title": "Software Engineering",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 15.3,
+            "final": 22.5
+          },
+          {
+            "code": "CS502",
+            "title": "Computer Networks",
+            "credits": 4,
+            "sessional": 13.4,
+            "midterm": 18,
+            "final": 29.5
+          },
+          {
+            "code": "CS503",
+            "title": "Artificial Intelligence",
+            "credits": 4,
+            "sessional": 12.9,
+            "midterm": 17.2,
+            "final": 32.1
+          },
+          {
+            "code": "CS504",
+            "title": "Full-Stack Web Technologies",
+            "credits": 3,
+            "sessional": 9.5,
+            "midterm": 14,
+            "final": 26.4
+          },
+          {
+            "code": "MG301",
+            "title": "Principles of Management",
+            "credits": 3,
+            "sessional": 8.4,
+            "midterm": 14,
+            "final": 24.2
+          }
+        ]
+      },
+      "cgpa": 3.6,
+      "overallPercentage": 81.4,
+      "totalCreditsAttempted": 86,
+      "totalCreditsEarned": 86,
+      "totalObtainedMarks": 1400.4,
+      "totalMaxMarks": 1720,
+      "standing": "High Distinction",
+      "standingClass": "badge-purple"
+    },
+    {
+      "id": 8,
+      "rollNo": "BCS-F22-092",
+      "regNo": "22-CS-092",
+      "name": "Iqra Noreen",
+      "fatherName": "Muhammad Aslam",
+      "batch": "2022-2026",
+      "batchId": "batch-2022",
+      "batchLabel": "BSCS 2022-2026 (Fall 2022)",
+      "section": "B",
+      "shift": "Evening",
+      "completedSemesters": 5,
+      "currentSemester": 6,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 11.7,
+            "midterm": 16.3,
+            "final": 31.5
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 7.5,
+            "midterm": 12,
+            "final": 22.2
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 7,
+            "midterm": 12.3,
+            "final": 19.3
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 7.6,
+            "midterm": 12.6,
+            "final": 17.8
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 5.9,
+            "midterm": 8.5,
+            "final": 12.7
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 9.6,
+            "midterm": 12.6,
+            "final": 21.7
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 13.5,
+            "midterm": 17.9,
+            "final": 30.5
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 8.9,
+            "midterm": 12.1,
+            "final": 23.2
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 9.9,
+            "midterm": 15.3,
+            "final": 29.2
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 7,
+            "midterm": 12.2,
+            "final": 20.1
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 7.6,
+            "midterm": 13,
+            "final": 18.7
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 12.8,
+            "midterm": 19.2,
+            "final": 28
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 12.8,
+            "midterm": 17.1,
+            "final": 28.2
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 8.4,
+            "midterm": 10.9,
+            "final": 20.9
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 7.1,
+            "midterm": 10.4,
+            "final": 20.4
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 6.7,
+            "midterm": 11.4,
+            "final": 19.8
+          }
+        ],
+        "4": [
+          {
+            "code": "CS401",
+            "title": "Database Systems",
+            "credits": 4,
+            "sessional": 11.7,
+            "midterm": 19.9,
+            "final": 30.1
+          },
+          {
+            "code": "CS402",
+            "title": "Operating Systems",
+            "credits": 4,
+            "sessional": 12.8,
+            "midterm": 19.8,
+            "final": 28.5
+          },
+          {
+            "code": "MT401",
+            "title": "Probability & Statistics",
+            "credits": 3,
+            "sessional": 9.4,
+            "midterm": 12.9,
+            "final": 20.4
+          },
+          {
+            "code": "CS403",
+            "title": "Theory of Automata",
+            "credits": 3,
+            "sessional": 8.5,
+            "midterm": 11,
+            "final": 20.3
+          },
+          {
+            "code": "EN201",
+            "title": "Technical & Report Writing",
+            "credits": 3,
+            "sessional": 8.3,
+            "midterm": 11.7,
+            "final": 22.7
+          }
+        ],
+        "5": [
+          {
+            "code": "CS501",
+            "title": "Software Engineering",
+            "credits": 3,
+            "sessional": 8,
+            "midterm": 13,
+            "final": 23.3
+          },
+          {
+            "code": "CS502",
+            "title": "Computer Networks",
+            "credits": 4,
+            "sessional": 11.1,
+            "midterm": 19,
+            "final": 29.6
+          },
+          {
+            "code": "CS503",
+            "title": "Artificial Intelligence",
+            "credits": 4,
+            "sessional": 11.5,
+            "midterm": 18.5,
+            "final": 26.3
+          },
+          {
+            "code": "CS504",
+            "title": "Full-Stack Web Technologies",
+            "credits": 3,
+            "sessional": 8.6,
+            "midterm": 12.1,
+            "final": 18.2
+          },
+          {
+            "code": "MG301",
+            "title": "Principles of Management",
+            "credits": 3,
+            "sessional": 9.2,
+            "midterm": 12,
+            "final": 21
+          }
+        ]
+      },
+      "cgpa": 2.86,
+      "overallPercentage": 70.4,
+      "totalCreditsAttempted": 86,
+      "totalCreditsEarned": 86,
+      "totalObtainedMarks": 1211.4,
+      "totalMaxMarks": 1720,
+      "standing": "Good Standing",
+      "standingClass": "badge-teal"
+    },
+    {
+      "id": 9,
+      "rollNo": "BCS-F23-002",
+      "regNo": "23-CS-002",
+      "name": "Sara Naveed",
+      "fatherName": "Naveed Anwar",
+      "batch": "2023-2027",
+      "batchId": "batch-2023",
+      "batchLabel": "BSCS 2023-2027 (Fall 2023)",
+      "section": "A",
+      "shift": "Morning",
+      "completedSemesters": 3,
+      "currentSemester": 4,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 15.5,
+            "midterm": 23.2,
+            "final": 34.9
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 17.2,
+            "final": 29
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.3,
+            "final": 29.9
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 11.1,
+            "midterm": 16.5,
+            "final": 30
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 6.8,
+            "midterm": 11.2,
+            "final": 19.2
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 17.1,
+            "final": 26.2
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 14.3,
+            "midterm": 23.8,
+            "final": 36.5
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 18,
+            "final": 28.2
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 16,
+            "midterm": 23.4,
+            "final": 38.2
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.5,
+            "final": 29.7
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 11.4,
+            "midterm": 16.3,
+            "final": 30
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 13.2,
+            "midterm": 21.2,
+            "final": 37.4
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 14.2,
+            "midterm": 23.8,
+            "final": 37.6
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 11.8,
+            "midterm": 18,
+            "final": 28.4
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 17.9,
+            "final": 28.3
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.8,
+            "final": 29.4
+          }
+        ]
+      },
+      "cgpa": 4,
+      "overallPercentage": 94.9,
+      "totalCreditsAttempted": 52,
+      "totalCreditsEarned": 52,
+      "totalObtainedMarks": 986.6,
+      "totalMaxMarks": 1040,
+      "standing": "HoD's Honor List",
+      "standingClass": "badge-gold"
+    },
+    {
+      "id": 10,
+      "rollNo": "BCS-F23-018",
+      "regNo": "23-CS-018",
+      "name": "Ali Raza Siddiqui",
+      "fatherName": "Tahir Siddiqui",
+      "batch": "2023-2027",
+      "batchId": "batch-2023",
+      "batchLabel": "BSCS 2023-2027 (Fall 2023)",
+      "section": "A",
+      "shift": "Morning",
+      "completedSemesters": 3,
+      "currentSemester": 4,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 12.9,
+            "midterm": 20.6,
+            "final": 36.6
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 9.3,
+            "midterm": 15.7,
+            "final": 24.7
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 10.1,
+            "midterm": 16.1,
+            "final": 23.4
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 11.3,
+            "midterm": 16.2,
+            "final": 25
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 7.9,
+            "midterm": 10.7,
+            "final": 18.5
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 11.2,
+            "midterm": 15.7,
+            "final": 29.3
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 14.6,
+            "midterm": 20.5,
+            "final": 38.4
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 9.6,
+            "midterm": 14.9,
+            "final": 27.3
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 12.5,
+            "midterm": 21,
+            "final": 34.2
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 10.5,
+            "midterm": 17.1,
+            "final": 25.4
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 11.3,
+            "midterm": 16.6,
+            "final": 25.1
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 15.7,
+            "midterm": 21.3,
+            "final": 35.7
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 13.9,
+            "midterm": 18.9,
+            "final": 35.3
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 9.2,
+            "midterm": 13.9,
+            "final": 26.1
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 9.2,
+            "midterm": 15.4,
+            "final": 26
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 9.8,
+            "midterm": 16.3,
+            "final": 24.5
+          }
+        ]
+      },
+      "cgpa": 3.88,
+      "overallPercentage": 87.1,
+      "totalCreditsAttempted": 52,
+      "totalCreditsEarned": 52,
+      "totalObtainedMarks": 905.4,
+      "totalMaxMarks": 1040,
+      "standing": "HoD's Honor List",
+      "standingClass": "badge-gold"
+    },
+    {
+      "id": 11,
+      "rollNo": "BCS-F23-055",
+      "regNo": "23-CS-055",
+      "name": "Danyal Baig",
+      "fatherName": "Khurram Baig",
+      "batch": "2023-2027",
+      "batchId": "batch-2023",
+      "batchLabel": "BSCS 2023-2027 (Fall 2023)",
+      "section": "B",
+      "shift": "Morning",
+      "completedSemesters": 3,
+      "currentSemester": 4,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 14,
+            "midterm": 18.8,
+            "final": 31.7
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 10.2,
+            "midterm": 13.8,
+            "final": 25.8
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 9,
+            "midterm": 13.5,
+            "final": 25.4
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 8,
+            "midterm": 13.6,
+            "final": 22.9
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 5.5,
+            "midterm": 9.3,
+            "final": 13.6
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 9.3,
+            "midterm": 14.2,
+            "final": 20.5
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 13.8,
+            "midterm": 20.9,
+            "final": 30.6
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 11.1,
+            "midterm": 15.3,
+            "final": 24.8
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 14,
+            "midterm": 18.7,
+            "final": 34.3
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 9,
+            "midterm": 13,
+            "final": 24.9
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 8.5,
+            "midterm": 14,
+            "final": 24.4
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 11.6,
+            "midterm": 19.8,
+            "final": 30.5
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 13.6,
+            "midterm": 21.3,
+            "final": 30.9
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 10.8,
+            "midterm": 15.1,
+            "final": 23.5
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 9.9,
+            "midterm": 13.1,
+            "final": 23.5
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 9.1,
+            "midterm": 12.8,
+            "final": 24.6
+          }
+        ]
+      },
+      "cgpa": 3.46,
+      "overallPercentage": 79.5,
+      "totalCreditsAttempted": 52,
+      "totalCreditsEarned": 52,
+      "totalObtainedMarks": 826.5,
+      "totalMaxMarks": 1040,
+      "standing": "Merit Standing",
+      "standingClass": "badge-blue"
+    },
+    {
+      "id": 12,
+      "rollNo": "BCS-F23-110",
+      "regNo": "23-CS-110",
+      "name": "Noor ul Huda",
+      "fatherName": "Akhtar Hussain",
+      "batch": "2023-2027",
+      "batchId": "batch-2023",
+      "batchLabel": "BSCS 2023-2027 (Fall 2023)",
+      "section": "B",
+      "shift": "Evening",
+      "completedSemesters": 3,
+      "currentSemester": 4,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 8.9,
+            "midterm": 15.8,
+            "final": 23.6
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 7.6,
+            "midterm": 12.1,
+            "final": 17
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 8.9,
+            "midterm": 12.2,
+            "final": 18.8
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 9.2,
+            "midterm": 12,
+            "final": 21.6
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 5.6,
+            "midterm": 7.8,
+            "final": 15.1
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 7.1,
+            "midterm": 11.5,
+            "final": 21.3
+          }
+        ],
+        "2": [
+          {
+            "code": "CS201",
+            "title": "Object Oriented Programming",
+            "credits": 4,
+            "sessional": 9.1,
+            "midterm": 14.7,
+            "final": 27.2
+          },
+          {
+            "code": "CS202",
+            "title": "Discrete Structures",
+            "credits": 3,
+            "sessional": 6.8,
+            "midterm": 12,
+            "final": 18.9
+          },
+          {
+            "code": "CS203",
+            "title": "Digital Logic Design",
+            "credits": 4,
+            "sessional": 10.8,
+            "midterm": 17.7,
+            "final": 25.3
+          },
+          {
+            "code": "MT201",
+            "title": "Differential Equations & Multi. Calc",
+            "credits": 3,
+            "sessional": 9.5,
+            "midterm": 13.7,
+            "final": 20.5
+          },
+          {
+            "code": "EN102",
+            "title": "Communication & Presentation Skills",
+            "credits": 3,
+            "sessional": 9.5,
+            "midterm": 12.6,
+            "final": 21.6
+          }
+        ],
+        "3": [
+          {
+            "code": "CS301",
+            "title": "Data Structures & Algorithms",
+            "credits": 4,
+            "sessional": 10.1,
+            "midterm": 13.4,
+            "final": 26.4
+          },
+          {
+            "code": "CS302",
+            "title": "Computer Org. & Assembly Language",
+            "credits": 4,
+            "sessional": 8.7,
+            "midterm": 13.4,
+            "final": 25.9
+          },
+          {
+            "code": "MT301",
+            "title": "Linear Algebra",
+            "credits": 3,
+            "sessional": 6.7,
+            "midterm": 11.8,
+            "final": 19.4
+          },
+          {
+            "code": "CS303",
+            "title": "Design & Analysis of Algorithms",
+            "credits": 3,
+            "sessional": 8.1,
+            "midterm": 13.6,
+            "final": 19.6
+          },
+          {
+            "code": "SS201",
+            "title": "Professional Ethics in Computing",
+            "credits": 3,
+            "sessional": 8.9,
+            "midterm": 13.3,
+            "final": 19.1
+          }
+        ]
+      },
+      "cgpa": 2.53,
+      "overallPercentage": 65.8,
+      "totalCreditsAttempted": 52,
+      "totalCreditsEarned": 52,
+      "totalObtainedMarks": 684.4,
+      "totalMaxMarks": 1040,
+      "standing": "Good Standing",
+      "standingClass": "badge-teal"
+    },
+    {
+      "id": 13,
+      "rollNo": "BCS-F24-001",
+      "regNo": "24-CS-001",
+      "name": "Arham Rehman",
+      "fatherName": "Abdul Rehman",
+      "batch": "2024-2028",
+      "batchId": "batch-2024",
+      "batchLabel": "BSCS 2024-2028 (Fall 2024)",
+      "section": "A",
+      "shift": "Morning",
+      "completedSemesters": 1,
+      "currentSemester": 2,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 15.6,
+            "midterm": 21.7,
+            "final": 40
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 10.6,
+            "midterm": 16.2,
+            "final": 29.6
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 9.8,
+            "midterm": 16.3,
+            "final": 26.9
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 10.1,
+            "midterm": 16.6,
+            "final": 24.9
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 7.6,
+            "midterm": 11.3,
+            "final": 16.8
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 12,
+            "midterm": 16.8,
+            "final": 28.1
+          }
+        ]
+      },
+      "cgpa": 4,
+      "overallPercentage": 91.9,
+      "totalCreditsAttempted": 18,
+      "totalCreditsEarned": 18,
+      "totalObtainedMarks": 330.9,
+      "totalMaxMarks": 360,
+      "standing": "HoD's Honor List",
+      "standingClass": "badge-gold"
+    },
+    {
+      "id": 14,
+      "rollNo": "BCS-F24-012",
+      "regNo": "24-CS-012",
+      "name": "Fatima Noor",
+      "fatherName": "Noor Muhammad",
+      "batch": "2024-2028",
+      "batchId": "batch-2024",
+      "batchLabel": "BSCS 2024-2028 (Fall 2024)",
+      "section": "A",
+      "shift": "Morning",
+      "completedSemesters": 1,
+      "currentSemester": 2,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 13.5,
+            "midterm": 20.8,
+            "final": 30.3
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 11.3,
+            "midterm": 15.6,
+            "final": 24.9
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 11.4,
+            "midterm": 15.4,
+            "final": 27.6
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 10.5,
+            "midterm": 15,
+            "final": 28.4
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 6.2,
+            "midterm": 10,
+            "final": 17.6
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 8.9,
+            "midterm": 15.2,
+            "final": 23.7
+          }
+        ]
+      },
+      "cgpa": 3.78,
+      "overallPercentage": 85.1,
+      "totalCreditsAttempted": 18,
+      "totalCreditsEarned": 18,
+      "totalObtainedMarks": 306.3,
+      "totalMaxMarks": 360,
+      "standing": "HoD's Honor List",
+      "standingClass": "badge-gold"
+    },
+    {
+      "id": 15,
+      "rollNo": "BCS-F24-035",
+      "regNo": "24-CS-035",
+      "name": "Talha Zubair",
+      "fatherName": "Zubair Ahmed",
+      "batch": "2024-2028",
+      "batchId": "batch-2024",
+      "batchLabel": "BSCS 2024-2028 (Fall 2024)",
+      "section": "B",
+      "shift": "Morning",
+      "completedSemesters": 1,
+      "currentSemester": 2,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 11.6,
+            "midterm": 18.2,
+            "final": 33.6
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 8,
+            "midterm": 13.8,
+            "final": 22.4
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 8.6,
+            "midterm": 14.2,
+            "final": 20.5
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 9.8,
+            "midterm": 14.4,
+            "final": 21.4
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 7.1,
+            "midterm": 9.5,
+            "final": 16.1
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 10.3,
+            "midterm": 13.9,
+            "final": 26.2
+          }
+        ]
+      },
+      "cgpa": 3.31,
+      "overallPercentage": 77.7,
+      "totalCreditsAttempted": 18,
+      "totalCreditsEarned": 18,
+      "totalObtainedMarks": 279.6,
+      "totalMaxMarks": 360,
+      "standing": "Merit Standing",
+      "standingClass": "badge-blue"
+    },
+    {
+      "id": 16,
+      "rollNo": "BCS-F24-068",
+      "regNo": "24-CS-068",
+      "name": "Hafsa Khalid",
+      "fatherName": "Khalid Mehmood",
+      "batch": "2024-2028",
+      "batchId": "batch-2024",
+      "batchLabel": "BSCS 2024-2028 (Fall 2024)",
+      "section": "B",
+      "shift": "Evening",
+      "completedSemesters": 1,
+      "currentSemester": 2,
+      "semesters": {
+        "1": [
+          {
+            "code": "CS101",
+            "title": "Programming Fundamentals",
+            "credits": 4,
+            "sessional": 12.9,
+            "midterm": 17.4,
+            "final": 28.2
+          },
+          {
+            "code": "CS102",
+            "title": "Introduction to Computing",
+            "credits": 3,
+            "sessional": 9.7,
+            "midterm": 12.8,
+            "final": 23.6
+          },
+          {
+            "code": "MT101",
+            "title": "Calculus & Analytical Geometry",
+            "credits": 3,
+            "sessional": 8.6,
+            "midterm": 12.5,
+            "final": 24
+          },
+          {
+            "code": "EN101",
+            "title": "Functional English",
+            "credits": 3,
+            "sessional": 7.5,
+            "midterm": 12.4,
+            "final": 21.9
+          },
+          {
+            "code": "PK101",
+            "title": "Pakistan Studies & History",
+            "credits": 2,
+            "sessional": 4.9,
+            "midterm": 8.5,
+            "final": 12.7
+          },
+          {
+            "code": "PH101",
+            "title": "Applied Physics",
+            "credits": 3,
+            "sessional": 8.3,
+            "midterm": 13.1,
+            "final": 18.4
+          }
+        ]
+      },
+      "cgpa": 2.96,
+      "overallPercentage": 71.5,
+      "totalCreditsAttempted": 18,
+      "totalCreditsEarned": 18,
+      "totalObtainedMarks": 257.4,
+      "totalMaxMarks": 360,
+      "standing": "Good Standing",
+      "standingClass": "badge-teal"
+    }
+  ]
+}

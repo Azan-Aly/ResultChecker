@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#4f46e5" />
+    </linearGradient>
+    <linearGradient id="capGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#e0e7ff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Shield / Rounded Badge -->
+  <rect width="32" height="32" rx="8" fill="url(#grad1)" />
+  
+  <!-- Subtle inner border -->
+  <rect x="1" y="1" width="30" height="30" rx="7" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1" />
+
+  <!-- Graduation Cap Rhombus -->
+  <path d="M16 7 L27 12 L16 17 L5 12 Z" fill="url(#capGrad)" />
+
+  <!-- Cap Skull Base -->
+  <path d="M9 14.5 L9 19.5 C9 22 12 23.5 16 23.5 C20 23.5 23 22 23 19.5 L23 14.5 L16 17.7 Z" fill="#c7d2fe" />
+
+  <!-- Tassel Cord & Pendant -->
+  <path d="M24.5 13 L24.5 20.5" stroke="#fbbf24" stroke-width="1.2" stroke-linecap="round" />
+  <circle cx="24.5" cy="21.5" r="1" fill="#f59e0b" />
+</svg>
