@@ -8,6 +8,7 @@ import StudentResultView from "../components/StudentResultView";
 import TranscriptPrintView from "../components/TranscriptPrintView";
 import BatchAnalytics from "../components/BatchAnalytics";
 import SkeletonLoader from "../components/SkeletonLoader";
+import Footer from "../components/Footer";
 import { AlertCircle, ShieldCheck } from "lucide-react";
 import { getBatches, getStudentResult } from "../lib/studentDataService";
 
@@ -205,6 +206,8 @@ export default function Home() {
         {/* Printable Official DMC Layout (Only triggered on Print) */}
         {resultData && <TranscriptPrintView resultData={resultData} />}
       </main>
+
+      <Footer />
     </div>
   );
 }
