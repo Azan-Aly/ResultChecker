@@ -199,10 +199,17 @@ export default function StudentResultView({
                 <td className="course-title-cell">
                   <div>{course.title}</div>
                   <div className="marks-breakdown-sub">
-                    Sess: {course.sessional}/{course.sessionalMax} • Mid: {course.midterm}/{course.midtermMax} • Fin: {course.final}/{course.finalMax}
+                    {course.practical > 0 ? (
+                      <>Sess: {course.sessional} • Mid: {course.midterm} • Theory: {course.final - course.practical} • Prac: {course.practical}</>
+                    ) : (
+                      <>Sess: {course.sessional}/{course.sessionalMax} • Mid: {course.midterm}/{course.midtermMax} • Fin: {course.final}/{course.finalMax}</>
+                    )}
                   </div>
                 </td>
-                <td style={{ textAlign: "center", fontWeight: "600" }}>{course.credits}</td>
+                <td style={{ textAlign: "center", fontWeight: "600" }}>
+                  {course.credits}
+                  {course.isNonCredit && <span style={{ fontSize: "0.75rem", color: "var(--text-muted)", display: "block" }}>Non-Credit</span>}
+                </td>
                 <td>
                   <div style={{ display: "flex", alignItems: "center", gap: "0.6rem" }}>
                     <div style={{ flex: 1, height: "6px", background: "rgba(255,255,255,0.08)", borderRadius: "3px", overflow: "hidden" }}>
@@ -226,7 +233,13 @@ export default function StudentResultView({
                   </span>
                 </td>
                 <td style={{ textAlign: "right", fontFamily: "var(--font-mono)", fontWeight: "600" }}>
-                  {course.gradePoints.toFixed(2)} <span style={{ color: "var(--text-muted)", fontSize: "0.8rem" }}>({course.weightedPoints.toFixed(2)})</span>
+                  {course.isNonCredit ? (
+                    <span style={{ color: "var(--text-muted)", fontSize: "0.85rem" }}>NC</span>
+                  ) : (
+                    <>
+                      {course.gradePoints.toFixed(2)} <span style={{ color: "var(--text-muted)", fontSize: "0.8rem" }}>({course.weightedPoints.toFixed(2)})</span>
+                    </>
+                  )}
                 </td>
               </tr>
             ))}

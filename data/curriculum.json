@@ -2,64 +2,73 @@
   "degreeName": "Bachelor of Science in Computer Science",
   "degreeCode": "BSCS",
   "totalSemesters": 8,
-  "totalCreditHours": 136,
+  "totalCreditHours": 133,
   "semesters": {
     "1": [
-      { "code": "CS101", "title": "Programming Fundamentals", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
-      { "code": "CS102", "title": "Introduction to Computing", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
-      { "code": "MT101", "title": "Calculus & Analytical Geometry", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "EN101", "title": "Functional English", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "PK101", "title": "Pakistan Studies & History", "credits": 2, "theoryCredits": 2, "labCredits": 0 },
-      { "code": "PH101", "title": "Applied Physics", "credits": 3, "theoryCredits": 2, "labCredits": 1 }
+      { "code": "CCC-301", "title": "Programming Fundamentals", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
+      { "code": "CSI-303", "title": "Discrete Structures", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "CSI-321", "title": "Introduction to Computing Applications", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "MTH-323", "title": "Calculus & Analytical Geometry", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "ENG-321", "title": "Functional English", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "THQ-311", "title": "Translation of Holy Quran-I", "credits": 1, "theoryCredits": 1, "labCredits": 0, "isNonCredit": true },
+      { "code": "MTH-111", "title": "Basic Mathematics-I", "credits": 3, "theoryCredits": 3, "labCredits": 0, "isNonCredit": true }
     ],
     "2": [
-      { "code": "CS201", "title": "Object Oriented Programming", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
-      { "code": "CS202", "title": "Discrete Structures", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "CS203", "title": "Digital Logic Design", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
-      { "code": "MT201", "title": "Differential Equations & Multi. Calc", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "EN102", "title": "Communication & Presentation Skills", "credits": 3, "theoryCredits": 3, "labCredits": 0 }
+      { "code": "CCC-302", "title": "Object Oriented Programming", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
+      { "code": "CCC-304", "title": "Database Systems", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
+      { "code": "CCC-306", "title": "Digital Logic Design", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "MTH-324", "title": "Multivariable Calculus", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "MTH-424", "title": "Linear Algebra ", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "MTH-112", "title": "Basic Mathematics-II", "credits": 3, "theoryCredits": 3, "labCredits": 0, "isNonCredit": true }
     ],
     "3": [
-      { "code": "CS301", "title": "Data Structures & Algorithms", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
-      { "code": "CS302", "title": "Computer Org. & Assembly Language", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
-      { "code": "MT301", "title": "Linear Algebra", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "CS303", "title": "Design & Analysis of Algorithms", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "SS201", "title": "Professional Ethics in Computing", "credits": 3, "theoryCredits": 3, "labCredits": 0 }
+       { "code": "CCC-401", "title": "Data Structures", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
+       { "code": "CCC-403", "title": "Information Security", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+       { "code": "CCC-404", "title": "Software Engineering", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+       { "code": "CCC-405", "title": "Computer Networks", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+       { "code": "CSI-415", "title": "Advanced Programming", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+       { "code": "STA-328", "title": "Probability and Statistics", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+       { "code": "THQ-411", "title": "Translation of The Holy Quran-II", "credits": 1, "theoryCredits": 1, "labCredits": 0, "isNonCredit": true } 
     ],
-    "4": [
-      { "code": "CS401", "title": "Database Systems", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
-      { "code": "CS402", "title": "Operating Systems", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
-      { "code": "MT401", "title": "Probability & Statistics", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "CS403", "title": "Theory of Automata", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "EN201", "title": "Technical & Report Writing", "credits": 3, "theoryCredits": 3, "labCredits": 0 }
+    "4":   [
+      { "code": "CSI-406", "title": "Theory of Automata", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "CSI-418", "title": "Advance Database Management Systems", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "CCC-402", "title": "Computer Organization and Assembly Language", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "PHY-321", "title": "Applied Physics", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "ENG-426", "title": "Expository Writing", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "ISL-321", "title": "Islamic Studies", "credits": 2, "theoryCredits": 2, "labCredits": 0 }
     ],
     "5": [
-      { "code": "CS501", "title": "Software Engineering", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "CS502", "title": "Computer Networks", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
-      { "code": "CS503", "title": "Artificial Intelligence", "credits": 4, "theoryCredits": 3, "labCredits": 1 },
-      { "code": "CS504", "title": "Full-Stack Web Technologies", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
-      { "code": "MG301", "title": "Principles of Management", "credits": 3, "theoryCredits": 3, "labCredits": 0 }
+       { "code": "CCC-503", "title": "Operating Systems", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+       { "code": "CSI-507", "title": "Computer Architecture", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+       { "code": "CSI-509", "title": "Digital Image Processing", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+       { "code": "CCC-501", "title": "Analysis of Algorithms", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+       { "code": "CSI-513", "title": "Mobile Application Development", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+       { "code": "BAM-301", "title": "Introduction to Management", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+       { "code": "THQ-511", "title": "Translation of The Holy Quran-III", "credits": 1, "theoryCredits": 1, "labCredits": 0, "isNonCredit": true }
     ],
     "6": [
-      { "code": "CS601", "title": "Compiler Construction", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "CS602", "title": "Information & Cyber Security", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "CS603", "title": "Cloud Computing & DevOps", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
-      { "code": "CS604", "title": "Mobile Application Development", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
-      { "code": "CS605", "title": "Machine Learning", "credits": 4, "theoryCredits": 3, "labCredits": 1 }
+      { "code": "CCC-502", "title": "Artificial Intelligence", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "CSI-504", "title": "Parallel and Distributed Computing", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "CSI-506", "title": "Numerical Computing", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "CSI-508", "title": "Compiler Construction", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "CSI-512", "title": "Web Engineering", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "CSI-514", "title": "Cyber Security", "credits": 3, "theoryCredits": 2, "labCredits": 1 }
     ],
     "7": [
-      { "code": "CS701", "title": "Final Year Project - I", "credits": 3, "theoryCredits": 0, "labCredits": 3 },
-      { "code": "CS702", "title": "Parallel & Distributed Systems", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "CS703", "title": "Human Computer Interaction", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "CS704", "title": "Deep Learning & Computer Vision", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
-      { "code": "MG401", "title": "Technology Entrepreneurship", "credits": 3, "theoryCredits": 3, "labCredits": 0 }
+      { "code": "CSI-603", "title": "Introduction to Data Science", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "BAM-601", "title": "Entrepreneurship", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "CSI-608", "title": "HCI & Computer Graphics", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
+      { "code": "THQ-611", "title": "Translation of The Holy Quran-IV", "credits": 1, "theoryCredits": 1, "labCredits": 0, "isNonCredit": true },
+      { "code": "ENG-422", "title": "Technical Writing", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "BAM-302", "title": "Principles of Marketing", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "CSI-631", "title": "Final Year Project - I", "credits": 2, "theoryCredits": 0, "labCredits": 2 }
     ],
     "8": [
-      { "code": "CS801", "title": "Final Year Project - II", "credits": 3, "theoryCredits": 0, "labCredits": 3 },
-      { "code": "CS802", "title": "Data Science & Big Data Analytics", "credits": 3, "theoryCredits": 2, "labCredits": 1 },
-      { "code": "CS803", "title": "Natural Language Processing", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
-      { "code": "SS401", "title": "Islamic Studies / Ethics", "credits": 2, "theoryCredits": 2, "labCredits": 0 },
-      { "code": "CS804", "title": "Blockchain Technologies & Web3", "credits": 3, "theoryCredits": 2, "labCredits": 1 }
+      { "code": "CSI-606", "title": "Professional Practices", "credits": 2, "theoryCredits": 2, "labCredits": 0 },
+      { "code": "SOC-407", "title": "Community Development", "credits": 2, "theoryCredits": 2, "labCredits": 0 },
+      { "code": "PST-506", "title": "Constitutional Developments in Pakistan", "credits": 3, "theoryCredits": 3, "labCredits": 0 },
+      { "code": "CSI-632", "title": "Final Year Project - II", "credits": 4, "theoryCredits": 0, "labCredits": 4 }
     ]
   }
 }
